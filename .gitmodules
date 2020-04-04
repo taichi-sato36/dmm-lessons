@@ -1,3 +1,6 @@
 [submodule "HTML・CSSを学ぼう/HTML・CSSを学ぼう/3章のコピー/演習問題"]
 	path = HTML・CSSを学ぼう/HTML・CSSを学ぼう/3章のコピー/演習問題
 	url = git@github.com:taichi-sato36/dmm-lessons.git
+[submodule "HTML・CSSを学ぼう/HTML・CSSを学ぼう/3章のコピー/演習問題のコピー"]
+	path = HTML・CSSを学ぼう/HTML・CSSを学ぼう/3章のコピー/演習問題のコピー
+	url = git@github.com:taichi-sato36/dmm-lessons.git
